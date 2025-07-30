@@ -27,7 +27,7 @@ FIFA Football Medicine Diploma (2025)
 
 ## Live Demo
 
-👉 [Streamlit App Link](#)  
+👉 [Streamlit App Link](https://football-health-analytics-pskpku76oesuydpkndc7q5.streamlit.app/)  
 
 ---
 
