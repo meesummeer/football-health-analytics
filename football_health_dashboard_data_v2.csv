@@ -1,0 +1,26 @@
+player_name,position,training_load,recovery_score,injury_risk,matches_played,minutes_played,number_of_past_injuries,cleared_for_play,last_medical_evaluation,compliance_status
+Player 1,Goalkeeper,59,94,83.66,2,834,0,No,2025-07-21,Overdue
+Player 2,Midfielder,79,68,46.94,5,77,2,Yes,2025-06-14,Compliant
+Player 3,Forward,51,98,46.29,1,830,2,No,2025-07-10,Overdue
+Player 4,Goalkeeper,47,73,11.22,4,417,2,Yes,2025-06-08,Non-Compliant
+Player 5,Goalkeeper,87,68,27.7,1,340,4,No,2025-07-15,Non-Compliant
+Player 6,Goalkeeper,91,75,39.73,4,332,0,Yes,2025-07-20,Compliant
+Player 7,Defender,57,52,20.02,10,346,2,No,2025-07-23,Non-Compliant
+Player 8,Goalkeeper,55,76,21.64,3,351,1,Yes,2025-07-24,Compliant
+Player 9,Forward,80,99,25.36,9,234,2,No,2025-06-06,Overdue
+Player 10,Midfielder,44,32,50.37,5,628,4,No,2025-06-24,Non-Compliant
+Player 11,Defender,62,63,57.44,7,412,3,Yes,2025-07-22,Non-Compliant
+Player 12,Midfielder,58,40,80.01,4,416,1,Yes,2025-07-13,Non-Compliant
+Player 13,Midfielder,60,99,25.78,2,150,1,No,2025-06-15,Overdue
+Player 14,Forward,69,56,82.01,6,760,4,Yes,2025-07-03,Compliant
+Player 15,Midfielder,70,32,25.47,3,338,0,No,2025-06-02,Non-Compliant
+Player 16,Goalkeeper,55,34,20.59,0,875,3,Yes,2025-06-06,Non-Compliant
+Player 17,Forward,45,75,43.08,3,427,1,Yes,2025-06-04,Overdue
+Player 18,Goalkeeper,93,71,50.67,4,669,2,Yes,2025-07-27,Overdue
+Player 19,Goalkeeper,62,35,26.52,6,83,1,Yes,2025-07-20,Non-Compliant
+Player 20,Midfielder,46,62,69.07,0,707,0,Yes,2025-06-20,Overdue
+Player 21,Defender,92,68,62.86,2,803,4,Yes,2025-06-28,Overdue
+Player 22,Defender,60,56,92.94,8,81,0,No,2025-06-25,Compliant
+Player 23,Forward,86,31,72.41,6,41,0,Yes,2025-07-07,Non-Compliant
+Player 24,Goalkeeper,93,99,51.05,4,668,2,Yes,2025-06-14,Overdue
+Player 25,Midfielder,86,71,17.72,3,841,1,No,2025-07-07,Non-Compliant
